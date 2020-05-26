@@ -8,6 +8,6 @@
 
 import UIKit
 
-class RSCodeDataMatrixGenerator: RSAbstractCodeGenerator {
-
+open class RSCodeDataMatrixGenerator: RSAbstractCodeGenerator {
+    
 }
